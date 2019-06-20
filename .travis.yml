@@ -7,7 +7,7 @@ install:
   - pip install codecov
 
 script:
-  - coverage run --sources=simplemath setup.py
+  - coverage run --source=simplemath setup.py
 
 after_success:
   - codecov
