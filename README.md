@@ -8,16 +8,16 @@ Simple Math lets you add two numbers
 
 To install use pip  from the directory containing setup.py
 
-  $ pip install .
+    $ pip install .
 
 ### Usage
 
 To use import the module
 
-  >>> import simplemath as sm
-  >>> sm.add(2,2)
-  4
+    >>> import simplemath as sm
+    >>> sm.add(2,2)
+    4
 
 Or execute from the command line:
 
-  $ python3 simplemath.py
+    $ python3 simplemath.py
