@@ -4,7 +4,7 @@ Simple Math lets you add two numbers
 
 ### Installation
 
-To instal use pip  from the directory containing setup.py
+To install use pip  from the directory containing setup.py
 
   $ pip install .
 
