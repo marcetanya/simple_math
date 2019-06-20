@@ -6,7 +6,7 @@ Author: Tanya Llanas
 Copyright 2019
 """
 
-__version__ = "1.0"
+__version__ = "1.1"
 
 
 def add(a, b):

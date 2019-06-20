@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='simplemath',
-      version='1.0',
+      version='1.1',
       description='Simple Math Module',
       author='Tanya Llanaas',
       author_email='tanya.llanas01@utrgv.edu',
