@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/marcetanya/simplemath.svg?branch=master)](https://travis-ci.org/marcetanya/simplemath)
 
+[![codecov](https://codecov.io/gh/marcetanya/simplemath/branch/master/graph/badge.svg)](https://codecov.io/gh/marcetanya/simplemath)
+
 #  Simple Math
 
 Simple Math lets you add two numbers
