@@ -1,6 +1,6 @@
 #  Simple Math
 
-Module to learn Python package system
+Simple Math lets you add two numbers
 
 ### Installation
 
